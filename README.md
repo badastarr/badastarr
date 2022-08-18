@@ -1,5 +1,5 @@
 <h5>
-  <b>augustoLABS</b>\badastarr | @badastarr
+  <i>augustoLABS</i>\badastarr | @badastarr
 </h5>
 
 <!---
