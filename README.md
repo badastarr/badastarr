@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @badastarr working on augustoLABS
-- 📫 Find me on any social media: @badastarr ...
+- 👋 Hello world
+- 📫 augustoLABS\badastarr | @badastarr
 
 <!---
 badastarr/badastarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
