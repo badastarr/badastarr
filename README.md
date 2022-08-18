@@ -1,5 +1,4 @@
-- 👋 Hello world
-- 📫 augustoLABS\badastarr | @badastarr
+<h1>- 📫 augustoLABS\badastarr | @badastarr</h1>
 
 <!---
 badastarr/badastarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
