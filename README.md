@@ -1,6 +1,7 @@
-<h3>
-  <b><i>augustoLABS</b>\badastarr | @badastarr</i>
-</h3>
+<h4>
+  <b>
+    <i>augustoLABS </b>\badastarr | @badastarr</i>
+</h4>
 
 <!---
 badastarr/badastarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
