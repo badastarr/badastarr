@@ -1,7 +1,7 @@
 
 🤖<h4>
   <b>
-    <i>augustoLABS</b>\badastarr | @badastarr</i>
+    <i>CopernicoLabs</b>\badastarr | @badastarr</i>
 </h4>
 
 <!---
